@@ -1,0 +1,5 @@
+/home/sekhar/Documents/Csharp/MultiplicationTable/MultiplicationTable/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sekhar/Documents/Csharp/MultiplicationTable/MultiplicationTable/bin/Debug/MultiplicationTable.exe.mdb
+/home/sekhar/Documents/Csharp/MultiplicationTable/MultiplicationTable/bin/Debug/MultiplicationTable.exe
+/home/sekhar/Documents/Csharp/MultiplicationTable/MultiplicationTable/obj/x86/Debug/MultiplicationTable.exe
+/home/sekhar/Documents/Csharp/MultiplicationTable/MultiplicationTable/obj/x86/Debug/MultiplicationTable.exe.mdb
